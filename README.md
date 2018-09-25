@@ -20,3 +20,7 @@ https://qiita.com/t-hiroyoshi/items/49c03456e991594c3dc0
 ```react-native link```
 ```react-native run-ios```
 でビルドする
+
+
+## firebaseとの連携
+https://qiita.com/Umibows/items/11c374c9025b57f96472
